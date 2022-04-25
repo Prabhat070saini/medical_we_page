@@ -1,0 +1,7 @@
+nav{
+    flex-direction: column;
+   
+}
+nav div{
+    margin-left: 2em;
+}

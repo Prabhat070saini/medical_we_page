@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.services{
+    flex-direction: column;
+}
+#home{
+    width: 531px;
+    height: 427px;
+    font-size: 15px;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
